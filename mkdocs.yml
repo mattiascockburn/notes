@@ -1,0 +1,13 @@
+---
+site_description: Bookmarks and other stuff i want to remember later
+site_author: localhorst
+site_name: Stuff
+site_url: https://stuff.layer8.fail
+nav:
+    - Home: index.md
+    - DevOps:
+      - devops.md
+    - Kubernetes:
+      - kubernetes/silly.md
+theme: readthedocs
+
